@@ -1,1 +1,1 @@
-# the-modern-javascript-bootcamp-course-2021
+# The Modern Javascript Bootcamp Course (2021)
